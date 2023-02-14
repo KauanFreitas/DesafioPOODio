@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="929c4bad-9e81-4ec7-ad9a-90c197b0f568" name="Changes" comment="First commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/github/KauanFreitas/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/KauanFreitas/desafio/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-POO-DIO/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-POO-DIO/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-POO-DIO/com/github/KauanFreitas/desafio/dominio/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-POO-DIO/com/github/KauanFreitas/desafio/dominio/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-POO-DIO/com/github/KauanFreitas/desafio/dominio/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-POO-DIO/com/github/KauanFreitas/desafio/dominio/Mentoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
